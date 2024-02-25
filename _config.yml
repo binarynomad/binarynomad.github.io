@@ -1,2 +1,7 @@
 title: Brian Huddleston
+description: Site to host stuff about me
+
 theme: jekyll-theme-hacker
+
+github:
+  is_project_page: false
